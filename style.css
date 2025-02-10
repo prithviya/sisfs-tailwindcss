@@ -1,0 +1,9 @@
+:root{
+    --blue: #0d1a3c;
+}
+.custom-nav{
+    background-color: var(--blue);
+}
+.primarycolor{
+    color: var(--blue)
+}
